@@ -1,0 +1,61 @@
+body {
+  width: 320px;
+  margin: 0;
+  padding: 12px 14px;
+  font: 13px/1.5 system-ui, sans-serif;
+  color: #1f2330;
+  background: #fff;
+}
+h1 {
+  margin: 0 0 8px;
+  font-size: 14px;
+}
+.hint {
+  margin: 0 0 10px;
+  color: #5b6070;
+}
+table {
+  width: 100%;
+  margin-bottom: 10px;
+  border-collapse: collapse;
+}
+th,
+td {
+  padding: 3px 4px;
+  border-bottom: 1px solid #e4e6ec;
+  text-align: right;
+}
+th:first-child,
+td:first-child {
+  text-align: left;
+}
+th {
+  font-weight: 600;
+  color: #5b6070;
+}
+.warn {
+  color: #b3261e;
+}
+.actions {
+  display: flex;
+  gap: 8px;
+}
+button {
+  flex: 1;
+  padding: 6px 8px;
+  border: 0;
+  border-radius: 6px;
+  background: #4553a3;
+  color: #fff;
+  font: inherit;
+  cursor: pointer;
+}
+button.secondary {
+  flex: 0 0 auto;
+  background: #e4e6ec;
+  color: #1f2330;
+}
+button:disabled {
+  opacity: 0.45;
+  cursor: default;
+}

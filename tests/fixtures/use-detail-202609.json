@@ -1,0 +1,12 @@
+{
+  "resultCode": "00",
+  "referenceYearMonth": "202609",
+  "detailInfoList": [
+    { "tradingNumber": "202609290000005", "useDate": "20260928", "useTarget": "EXAMPLE *SUBSCRIPTION", "priceCode": " ", "price": "1200", "fixedState": "1", "effectivenessConfirmationTransactionKubun": "0" },
+    { "tradingNumber": "202609200000004", "useDate": "20260920", "useTarget": "ﾓﾊﾞｲﾙｻﾝﾌﾟﾙ ﾁﾔ-ｼﾞ    ", "priceCode": " ", "price": "3000", "fixedState": "1", "effectivenessConfirmationTransactionKubun": "0" },
+    { "tradingNumber": "202609150000003", "useDate": "20260915", "useTarget": "ｻﾝﾌﾟﾙｼﾖﾂﾌﾟ          ", "priceCode": " ", "price": "880", "fixedState": "1", "effectivenessConfirmationTransactionKubun": "0" },
+    { "tradingNumber": "202609100000002", "useDate": "20260910", "useTarget": "イオン見本店", "priceCode": " ", "price": "2500", "fixedState": "1", "effectivenessConfirmationTransactionKubun": "0" },
+    { "tradingNumber": "202609010000001", "useDate": "20260901", "useTarget": "イオン見本店", "priceCode": " ", "price": "1500", "fixedState": "1", "effectivenessConfirmationTransactionKubun": "0" }
+  ],
+  "contactAboutNotWithdrawnAmount": []
+}
